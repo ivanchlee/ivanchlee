@@ -1,4 +1,4 @@
-[![MasterHead](https://charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)](https://github.com/ivanchlee)
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://github.com/ivanchlee)
 
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">Machine Learning Engineer in the finance space</h3>
